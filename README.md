@@ -2,9 +2,9 @@
   <img src="assets/readme-mark.png" alt="Repository mark for the MemoryWeave-v2 fork" width="200">
 </p>
 
-> **Fork of [Rikhil-Nell/MemoryWeave](https://github.com/Rikhil-Nell/MemoryWeave).** The fork keeps the upstream project history.
-
 <h1 align="center">MemoryWeave</h1>
+
+> **Fork of [Rikhil-Nell/MemoryWeave](https://github.com/Rikhil-Nell/MemoryWeave).** The fork keeps the upstream project history.
 
 A Python API that accepts a video and prompt, detects relevant objects, and stores a generated timeline. The code uses FastAPI, YOLO tracking, Pydantic AI, and Supabase.
 
